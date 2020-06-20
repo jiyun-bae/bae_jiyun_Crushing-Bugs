@@ -6,12 +6,12 @@ Description
 
 Problems(Bugs)
 
-: 1. Each puzzles go into the same block and stuck on it. 
+: 1. Each puzzles go into the same block and stuck on it.<br>
   2. Puzzle pieces appearing in the drop zones on reset.
 
 Solutions
 
-: For 1. Use the 'allowDrop' function in javascript to write 'if else' so puzzles can go in the each sections of puzzle zone only once. 
+: For 1. Use the 'allowDrop' function in javascript to write 'if else' so puzzles can go in the each sections of puzzle zone only once.<br>
   For 2. use the 'resetPuzzlePieces' function in javascript to start as a starting point on reset by putting child in 'if'.
 
 -------------------------------------------------------------------------------------------
